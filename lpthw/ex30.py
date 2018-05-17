@@ -1,5 +1,6 @@
+# -*- coding: utf-8 -*-
 people = 40
-cars = 20
+cars = 40
 buses = 15
 
 if cars > people:
@@ -7,4 +8,4 @@ if cars > people:
 elif cars < people:
     print "We should not take the cars."
 else:
-    print "We cant deside"
+    print u"фывафыва ыфваф фывафыв"
